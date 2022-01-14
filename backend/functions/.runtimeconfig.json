@@ -1,0 +1,5 @@
+{
+    "mongodb": {
+        "uri": "mongodb+srv://jasonsmoore:Snowman15%21@cluster0.lqpng.mongodb.net/gc_work?retryWrites=true&w=majority"
+    }
+}
